@@ -1,1 +1,1 @@
-# badges @apha
+# badges @alpha
